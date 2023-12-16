@@ -1,0 +1,33 @@
+.text .header {
+  background-color: #d5ebd5;
+  text-align: center;
+  height: 130px;
+  padding: 10px 0;
+}
+
+.text .header .top {
+  margin: 0;
+  color: #5db78e;
+}
+.text .header .middle {
+  color: black;
+  margin: 0;
+  font-family: "kanit";
+  font-size: 1.9rem;
+}
+.text .header .second {
+  position: relative;
+  top: -10px;
+}
+.text .header .bottom {
+  margin: 0;
+  position: relative;
+  top: -10px;
+}
+.text .content {
+  font-family: "Open Sans", sans-serif;
+  line-height: 230%;
+  margin: 3px 27%;
+  font-size: 21px;
+  color: black;
+}

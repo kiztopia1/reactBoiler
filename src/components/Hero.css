@@ -1,0 +1,78 @@
+.hero {
+  background: #121212;
+  color: white;
+  min-height: 100vh;
+  width: 100%;
+  font-family: "Kanit", sans-serif;
+}
+.hero .main {
+  display: flex;
+  margin-top: 20px;
+}
+
+.hero .main .content {
+  width: 50%;
+  padding: 0 20px;
+}
+.hero h1 {
+  font-size: 39px;
+  margin: 0;
+  font-weight: 600;
+}
+.hero h1 span {
+  color: #5db78e;
+  font-family: "Kalam";
+}
+.hero .details {
+  font-weight: 200;
+  font-size: 30px;
+  font-family: "kanit";
+  margin: 0;
+}
+.hero .line {
+  padding-bottom: 20px;
+}
+.hero .enroll {
+  background-color: #5db78e;
+  border-style: none;
+  border-radius: 2px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: "kalam";
+  font-size: 27px;
+  width: 190px;
+}
+
+.hero .side {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+}
+.hero .side img {
+  height: 70%;
+}
+.hero .free {
+  font-size: 25px;
+}
+.hero .form input {
+  background-color: #121212;
+  border: none;
+  border-bottom: 1px solid white;
+  width: 60%;
+}
+.hero .form button {
+  background-color: #4a4a4a;
+  border-style: none;
+  border-radius: 2px;
+  padding: 5px;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: "kalam";
+  font-size: 15px;
+  width: 100px;
+  margin: 10px;
+}
